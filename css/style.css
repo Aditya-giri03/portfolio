@@ -364,7 +364,7 @@ section.home{
     position: relative;
     width: 400px;
     height: 300px;
-    margin: 5px;
+    margin: 15px 5px;
 
 }
 .item img{
@@ -656,9 +656,21 @@ footer .social-icon:hover{
     .skill-card{
         margin: auto;
     }
+    .skill-data{
+        width: 300px;
+    }
+    .about{
+        padding: 100px 25px 30px;
+    }
+    .edu{
+        width: 100%;
+    }
     .action{
         background-color: rgba(0,0,0,0.5) ;
         opacity: 1;
+    }
+    .hobby{
+        width: 100%;
     }
 
     .hobby-content{
